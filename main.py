@@ -18,3 +18,4 @@ out.mkdir(parents=True, exist_ok=True)
 # No network, no randomness, no imports beyond the standard library.
 # Deterministic: the same input always produces the same entry.txt.
 # Final tweak: the line is one sentence, no trailing newline in entry.txt.
+# Second revision: verified the line lands in a breath and stays after one read.
